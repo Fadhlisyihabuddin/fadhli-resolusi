@@ -1,0 +1,4 @@
+fadhli-resolusi
+- Konsisten membuat konten 2 kali seminggu
+- Membuat platform untuk mengelola video
+- Membuat forum diskusi
