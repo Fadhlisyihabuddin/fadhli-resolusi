@@ -3,7 +3,10 @@ Rencana konten ku
 - Javascript
   *ES6
   *Frameworks Javascript
+    ^Angular
+    ^React JS
 - Struktur data dasar
 - PHP frameworks
+   ^Laravel
 - Interview
 - Vlogs
