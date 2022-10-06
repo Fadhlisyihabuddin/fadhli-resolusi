@@ -1,6 +1,8 @@
 Rencana konten ku
 
 - Javascript
+  *ES6
+  *Frameworks Javascript
 - PHP frameworks
 - Interview
-Vlog
+- Vlogs
