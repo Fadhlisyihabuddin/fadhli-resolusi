@@ -4,6 +4,7 @@ Rencana konten ku
   *ES6
   *Frameworks Javascript
    ^Vue JS
+   ^React JS
 - Struktur data dasar
 - PHP frameworks
    ^Laravel
